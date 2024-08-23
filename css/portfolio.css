@@ -1,0 +1,20 @@
+:root {
+    --header_bg: #FFF;
+    --logo_web: #2196F3;
+    --logo_studio: #000;
+    --nav_unhover: #212121;
+    --nav_hover: #2196F3;
+    --phone_email_unhover: #757575;
+    --phone_email_hover: #2196F3;
+    --hero_sect_bg: #2F303A;
+    --h1: #FFF;
+    --btn: #FFF;
+    --btn_bg: #2196F3;
+    --section_first_bg: #FFF;
+    --h2: #212121;
+    --text: #757575;
+    --section_second_bg: #FFF;
+    --section_third_bg: #F5F4FA;
+    --footer_bg: #2F303A;
+    --adress: #FFF;
+}
